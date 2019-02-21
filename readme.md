@@ -1,6 +1,12 @@
 
 **USAGE (docs to be updated soon hopefully ) :**
 
+NPM install: 
+
+`npm i @brucedonovan/react-netlify-form`
+
+-----------
+
 <NetlifyForm formName: *string*.isrequired successFunction: *func*.isRequired, errorFunction: *func*, formFields: *object*.isRequired>
 
 ```jsx
